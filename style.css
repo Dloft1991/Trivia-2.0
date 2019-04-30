@@ -26,3 +26,10 @@ a:hover {
 li:hover{
     background-color: white;
 }
+#userInput{
+    padding-left: 10px;
+}
+.holder{
+    background-color: white;
+    color:  rgb(244, 121, 121);
+}
